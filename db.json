@@ -12,10 +12,10 @@
                 {"id":"17","name":"Sports Equipment","url":"https://storage.googleapis.com/nearshop_live/images/dkcategories/Sports%20equipment.png","noOfProducts":64959},
                 {"id":"11","name":"Men's Clothing","url":"https://storage.googleapis.com/nearshop_live/images/dkcategories/%20Men's%20Clothing.png","noOfProducts":2819598},
                 {"id":"12","name":"Women's Clothing","url":"https://storage.googleapis.com/nearshop_live/images/dkcategories/Women%20clothing.png","noOfProducts":6423000},
-                {"id":"13","name":"Kids Clothing","url":"https://storage.googleapis.com/nearshop_live/images/dkcategories/Kids%20clothing.png","noOfProducts":754251},
+                {"id":"13","name":"Kids Clothing","url":"https://storage.googleapis.com/nearshop_live/images/dkcategories/Kids%20clothing.png","noOfProducts":754251}
   ],
   
-    "profile":{
+    "profile": {
     "name": "typicode"
   }
 }

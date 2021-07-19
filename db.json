@@ -15,14 +15,14 @@
                 {"id":"13","name":"Kids Clothing","url":"https://storage.googleapis.com/nearshop_live/images/dkcategories/Kids%20clothing.png","noOfProducts":754251}
   ],
   "Storedetails":[{"id":"20b4d9fe-f2af-5931-b11f-3fd28bd3520e","nsCode":"NS00000084","name":"Happy Shop","description":"Gift shop","address":"C/o Nearex technologies Pvt LTD, 184 BMR complex, Hennur","district":"Bangalore Rural","state":"Karnataka","pincode":"560043","geoLat":13.031061268665894,"geoLong":77.63655871152878,"contactName":"Ronit","contactNumber":"9049245023","contactEmail":"null","gmbContactNumber":"9049245023"},
-                  {"id":"0799261f-85d9-47f8-8604-1fccd76993ca","name":"Adis North Lake","verified":null},
-                  {"id":"77730766-5dc5-4958-b283-c70a9caa98ac","name":"Scintilla ","verified":null},
-                  {"id":"09b44699-37a3-44ad-8905-b7fbc5bf0f26","name":"Purva venezia","verified":null},
-                  {"id":"f9a9fb4c-4f97-4369-a727-426ed90c6e04","name":"Purva venezia","verified":null},
-                  {"id":"8c2c7c9b-647a-4c48-9020-2745a26afbd6","name":"NNN Apartment","verified":null},
-                  {"id":"7e5a9446-2d37-4411-a415-dbb253cd889b","name":"NCC Mistywoods","verified":null},
-                  {"id":"4c60e056-e7df-400a-8c17-32fd8f1eeac4","name":"Vijaya Homes","verified":null},
-                  {"id":"277a9034-12f0-482b-826a-5fe7c9793c4b","name":"NCC Urban","verified":null}
+                  {"id":"0799261f-85d9-47f8-8604-1fccd76993ca","name":"Adis North Lake","contactName":"Vijay","contactNumber":"9046425023","district":"Bangalore rural","verified":null},
+                  {"id":"77730766-5dc5-4958-b283-c70a9caa98ac","name":"Scintilla ","contactName":"Arun","contactNumber":"8049245023","district":"Bangalore rural","verified":null},
+                  {"id":"09b44699-37a3-44ad-8905-b7fbc5bf0f26","name":"Purva venezia","contactName":"Prakash","contactNumber":"6875245023","district":"Bangalore rural","verified":null},
+                  {"id":"f9a9fb4c-4f97-4369-a727-426ed90c6e04","name":"Purva venezia","contactName":"Messi","contactNumber":"9908245023","district":"Bangalore rural","verified":null},
+                  {"id":"8c2c7c9b-647a-4c48-9020-2745a26afbd6","name":"NNN Apartment","contactName":"Balaji","contactNumber":"8889245023","district":"Bangalore rural","verified":null},
+                  {"id":"7e5a9446-2d37-4411-a415-dbb253cd889b","name":"NCC Mistywoods","contactName":"Surya","contactNumber":"7209245023","district":"Bangalore rural","verified":null},
+                  {"id":"4c60e056-e7df-400a-8c17-32fd8f1eeac4","name":"Vijaya Homes","contactName":"Vijaya","contactNumber":"9080245023","district":"Bangalore rural","verified":null},
+                  {"id":"277a9034-12f0-482b-826a-5fe7c9793c4b","name":"NCC Urban","contactName":"Muthu","contactNumber":"7644245023","district":"Bangalore urban","verified":null}
     ],
     "profile": {
     "name": "typicode"

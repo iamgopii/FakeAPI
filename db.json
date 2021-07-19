@@ -24,6 +24,17 @@
                   {"id":"4c60e056-e7df-400a-8c17-32fd8f1eeac4","name":"Vijaya Homes","contactName":"Vijaya","contactNumber":"9080245023","district":"Bangalore rural","verified":null},
                   {"id":"277a9034-12f0-482b-826a-5fe7c9793c4b","name":"NCC Urban","contactName":"Muthu","contactNumber":"7644245023","district":"Bangalore urban","verified":null}
     ],
+    "Products":[{"id":"05b05579-7bf5-419d-89bd-c8ae6a680d95","name":"Tea Towel","description":"ENJOY TODAY TT","derived_description":"JOANN Tea Towel ENJOY TODAY TT 1 Each","gtin":"810031425044","price":"","onSalePrice":"250"},
+                {"id":"2b4d139c-f1f0-4414-a437-f5f3ff1d3326","name":"MAGGI HOT & SWEET TCS Bottle 24X500g","description":"MAGGI HOT & SWEET TCS Bottle 24X500g IN","derived_description":"MAGGI HOT & SWEET TCS Bottle 24X IN 500 Grams","gtin":"8901058117783","price":"100","onSalePrice":"","weight":500},
+                {"id":"f6f477b1-c4a2-49d9-98d0-56f8367ae58d","name":"VIM PWD ULTRA 1 KG","description":"VIM PWD ULTRA 1 KG","derived_description":"VIM PWD ULTRA 1 KG 1000 Grams","gtin":"8901030183515","price":"33","onSalePrice":"","weight":1000},
+                {"id":"d3319f3c-0d02-4dee-9e26-cdc14b9573f1","name":"Rico Non Stick Dosa Tawa  11","description":"Rico Non Stick Dosa Tawa 11\" -2.6mm","derived_description":"RICO Non Stick Dosa Tawa 11 1 Each","gtin":"8901307305015","price":"700","onSalePrice":"null","weight":null},
+                {"id":"7c2712e6-ffba-4c3d-b1c0-bb186abde2c9","name":"Bisleri Packaged Drinking Water","description":"Bisleri 500 ML - Ideal for personal use","derived_description":"Bisleri Packaged Drinking Water 500 Millilitres","gtin":"8906017290033","price":"10","onSalePrice":"null","weight":300},
+                {"id":"aa5d46a5-0ed9-4cad-b9ac-0181114bcaee","name":"MBD Baby Mat - PVC","description":"MBD Baby Mat - PVC","derived_description":"MORISONS BABY DREAMS MBD Mat - PVC 1 Each","gtin":"8901097411217","price":"270","onSalePrice":"null","weight":null},
+                {"id":"dd8d42b4-73db-4385-9525-85dd1d524369","name":"Badam Drink Mix","description":"Inst. Badam Drink   200g","derived_description":"Mtr Badam Drink Mix 200 Grams Inst. Badam Drink 200g","gtin":"8901042954622","price":"100","onSalePrice":"90","weight":200},
+                {"id":"e257f7dd-aedf-4d5f-b0c1-a24863bade68","name":"Dikamali Powder 5 gm","description":"Dikamali powder 5 gm","derived_description":"TAMKO PRODUCTS Dikamali Powder 5 Gm 5 Grams","gtin":"8906090000000","price":"10","onSalePrice":"9","weight":5},
+                {"id":"f15c0d29-8898-5d34-8bfa-d18c3feb67f2","name":"headphone bluetooth1","description":"black Bluetooth enabled headphone 1","price":"1001.00","weight":350},
+                {"id":"d59d4e03-0ca1-4782-93d0-ed1a2e9ec45a","name":"White Lobia | 250g","description":"Premium quality white lobia","price":"38","weight":null},
+     ],          
     "profile": {
     "name": "typicode"
   }

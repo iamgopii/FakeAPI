@@ -33,7 +33,7 @@
                 {"id":"dd8d42b4-73db-4385-9525-85dd1d524369","name":"Badam Drink Mix","description":"Inst. Badam Drink   200g","derived_description":"Mtr Badam Drink Mix 200 Grams Inst. Badam Drink 200g","gtin":"8901042954622","price":"100","onSalePrice":"90","weight":200},
                 {"id":"e257f7dd-aedf-4d5f-b0c1-a24863bade68","name":"Dikamali Powder 5 gm","description":"Dikamali powder 5 gm","derived_description":"TAMKO PRODUCTS Dikamali Powder 5 Gm 5 Grams","gtin":"8906090000000","price":"10","onSalePrice":"9","weight":5},
                 {"id":"f15c0d29-8898-5d34-8bfa-d18c3feb67f2","name":"headphone bluetooth1","description":"black Bluetooth enabled headphone 1","price":"1001.00","weight":350},
-                {"id":"d59d4e03-0ca1-4782-93d0-ed1a2e9ec45a","name":"White Lobia | 250g","description":"Premium quality white lobia","price":"38","weight":null},
+                {"id":"d59d4e03-0ca1-4782-93d0-ed1a2e9ec45a","name":"White Lobia | 250g","description":"Premium quality white lobia","price":"38","weight":null}
      ],          
     "profile": {
     "name": "typicode"

@@ -14,7 +14,8 @@
                 {"id":"12","name":"Women's Clothing","url":"https://storage.googleapis.com/nearshop_live/images/dkcategories/Women%20clothing.png","noOfProducts":6423000},
                 {"id":"13","name":"Kids Clothing","url":"https://storage.googleapis.com/nearshop_live/images/dkcategories/Kids%20clothing.png","noOfProducts":754251},
   ],
-  "profile":{
+  
+    "profile":{
     "name": "typicode"
   }
 }
